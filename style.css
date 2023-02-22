@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+:root {
+  --blue-color: #4158d0;
+  --pink-color: #c850c0;
+  --yellow-color: #ffcc70;
+  --fb-color: #4267b2;
+  --insta-color: #d62976;
+  --twitter-color: #1da1f2;
+  --linkedin-color: #0077b7;
+  --google-color: #f4b400;
+  --youtube-color: #ff0000;
+}
